@@ -1,0 +1,6 @@
+{
+  "name": "나용균 전무 프로필 포트폴리오",
+  "description": "AP시스템 전략기획 담당 나용균 전무의 기술 기반 전략기획 포트폴리오 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
